@@ -1,6 +1,8 @@
 ---
 title: {{ title }}
-cover: cover.jpg
+cover: cover.jpg'
+Slug: {{ title }}
 date: {{ date }}
-tags: [featured]
+tags:
+categories: [featured]
 ---
